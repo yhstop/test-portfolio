@@ -1,0 +1,10 @@
+@charset "utr-8";
+body{
+
+}
+
+h1,h2{
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+}
